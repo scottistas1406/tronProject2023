@@ -4,7 +4,7 @@ const context = canvas.getContext("2d"); //creates context for 2d redering in ca
 
 // Initialize game variables
 let score = 0;
-let gameSpeed = 10;
+let gameSpeed = 100;
 let snackSize = 10;
 
 // Initialize snake variables
